@@ -1,3 +1,10 @@
+# BUILD WITH
+
+```
+docker build -t sphinx .
+```
+
+
 # RUN WITH
 
 ```
